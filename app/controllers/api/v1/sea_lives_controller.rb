@@ -24,7 +24,7 @@ before_action :find_seaLife, only: [:show, :update]
   private
 
   def seaLives_params
-    params.permit(:name, :image, :isMyFavorite, :ocean_image)
+    params.permit(:name, :image, :isMyFavorite, :ocean_image, :description)
   end
 
   def find_seaLife
