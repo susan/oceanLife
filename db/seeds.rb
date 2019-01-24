@@ -28,6 +28,7 @@ SeaLife.create(
 name: "Australian Giant Cuttlefishk",
 isMyFavorite: true,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/cuttlefish-768x512.jpg",
+ocean_image:"../app/assets/oceanImages/1.png",
 ocean_id: 1
 )
 
@@ -35,6 +36,7 @@ SeaLife.create(
 name: "Bull Shark",
 isMyFavorite: true,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/bull-768x480.jpg",
+ocean_image: "../app/assets/oceanImages/2.png",
 ocean_id: 1
 )
 
@@ -42,13 +44,15 @@ SeaLife.create(
 name: "Branch Coral",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/coral-768x647.jpg",
+ocean_image: "../app/assets/oceanImages/3.png",
 ocean_id: 1
 )
 
 SeaLife.create(
-name: "Blue Whale",
+name: "Hawaiian Monk Seal",
 isMyFavorite: false,
-image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/blue-whale.jpg",
+image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/Hawaiian-Monk-Seal-300x199.jpg",
+ocean_image: "../app/assets/oceanImages/4.png",
 ocean_id: 1
 )
 
@@ -56,6 +60,7 @@ SeaLife.create(
 name: "Basking Shark",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/basking-768x432.jpg",
+ocean_image: "../app/assets/oceanImages/5.png",
 ocean_id: 1
 )
 
@@ -63,6 +68,7 @@ SeaLife.create(
 name: "Hawksbill Turtle",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/turtle-768x576.jpg",
+ocean_image: "../app/assets/oceanImages/6.png",
 ocean_id: 1
 )
 
@@ -70,6 +76,7 @@ SeaLife.create(
 name: "Vaquita",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/vaquita-raziel-levi-mendez-moreno-768x419.jpg",
+ocean_image: "../app/assets/oceanImages/7.png",
 ocean_id: 1
 )
 
@@ -77,13 +84,15 @@ SeaLife.create(
 name: "Oval Butterfish",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/img2E.jpg",
+ocean_image: "../app/assets/oceanImages/8.png",
 ocean_id: 1
 )
 
 SeaLife.create(
-name: "BelugaSeaLife.create(White Whales)",
+name: "BelugaSeaLife",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/whale1-768x540.jpg",
+ocean_image: "../app/assets/oceanImages/9.png",
 ocean_id: 2
 )
 
@@ -91,6 +100,7 @@ SeaLife.create(
 name: "Atlantic Bluefin Tuna",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/bluefin.jpg",
+ocean_image: "../app/assets/oceanImages/10.png",
 ocean_id: 2
 )
 
@@ -98,6 +108,7 @@ SeaLife.create(
 name: "Lined Seahorse",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/Lined-Seahorse-In-Aquarium.jpg",
+ocean_image: "Life%21/app/assets/oceanImages/11.png",
 ocean_id: 2
 )
 
@@ -105,6 +116,7 @@ SeaLife.create(
 name: "Hooded Seal",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/hooded-768x512.jpg",
+ocean_image: "../app/assets/oceanImages/12.png",
 ocean_id: 2
 )
 
@@ -112,6 +124,7 @@ SeaLife.create(
 name: "LeatherBack Sea Turtle",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/leatherback-sea-turtle-florida-everglades-768x510.jpg",
+ocean_image: "Life%21/app/assets/oceanImages/13.png",
 ocean_id: 2
 )
 
@@ -119,6 +132,7 @@ SeaLife.create(
 name: "Walrus",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/maxresdefault-768x432.jpg",
+ocean_image: "../app/assets/oceanImages/14.png",
 ocean_id: 2
 )
 
@@ -126,6 +140,7 @@ SeaLife.create(
 name: "Amazonian Manatee",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/amanatee4-e1500865611588-768x536.jpg",
+ocean_image: "../app/assets/oceanImages/15.png",
 ocean_id: 2
 )
 
@@ -133,6 +148,7 @@ SeaLife.create(
 name: "Dusky Dolphin",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/07/dusky.jpg",
+ocean_image: "../app/assets/oceanImages/16.png",
 ocean_id: 2
 )
 
@@ -140,6 +156,7 @@ SeaLife.create(
 name: "African Penguin",
 isMyFavorite: true,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/10/ap-300x201.jpg",
+ocean_image: "../app/assets/oceanImages/17.png",
 ocean_id: 3
 )
 
@@ -147,6 +164,7 @@ SeaLife.create(
 name: "Albatross",
 isMyFavorite: true,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/10/a-1-300x204.jpg",
+ocean_image: "../app/assets/oceanImages/18.png",
 ocean_id: 3
 )
 
@@ -154,6 +172,7 @@ SeaLife.create(
 name: "Angelfish",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/10/freshwater-angelfish-300x200.jpg",
+ocean_image: "../app/assets/oceanImages/19.png",
 ocean_id: 3
 )
 
@@ -161,12 +180,14 @@ SeaLife.create(
 name: "Blue Whale",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/10/bw-300x169.jpg",
+ocean_image: "../app/assets/oceanImages/20.png",
 ocean_id: 3)
 
 SeaLife.create(
 name: "Butterfly fish",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/10/Butterfly-Fish1.jpg",
+ocean_image: "../app/assets/oceanImages/21.png",
 ocean_id: 3
 )
 
@@ -174,6 +195,7 @@ SeaLife.create(
 name: "Cuttlefish",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/10/giant-cuttlefish.jpg",
+ocean_image: "../app/assets/oceanImages/22.png",
 ocean_id: 3
 )
 
@@ -181,12 +203,14 @@ SeaLife.create(
 name: "Dugong",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/10/dugong.jpg",
+ocean_image: "../app/assets/oceanImages/23.png",
 ocean_id: 3
 )
 
 SeaLife.create(
-name: "Zebra Shark",
+name: "Giant Clam",
 isMyFavorite: false,
 image: "https://deepoceanfacts.com/wp-content/uploads/2017/10/gc-768x432.jpg",
+ocean_image: "../app/assets/oceanImages/24.png",
 ocean_id: 3
 )
